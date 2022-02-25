@@ -18,8 +18,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[
-https://github.com/Moony-53/loser-/blob/gh-pages/95dea1d6b492f300db23063772196e72.mp4]
+[https://github.com/Moony-53/loser-/blob/gh-pages/95dea1d6b492f300db23063772196e72.mp4]
 (url) and ![Image](src)
 ```
 
