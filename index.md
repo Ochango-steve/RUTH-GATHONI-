@@ -22,8 +22,9 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[
+https://github.com/Moony-53/loser-/blob/gh-pages/95dea1d6b492f300db23063772196e72.mp4]
+(url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
