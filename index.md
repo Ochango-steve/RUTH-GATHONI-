@@ -11,8 +11,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 
 
-- Bulleted
-- List
 
 1. Numbered
 2. List
